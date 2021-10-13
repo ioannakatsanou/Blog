@@ -2,7 +2,7 @@
   "name": "test",
   "version": "1.0.0",
   "description": "test description",
-    "repository": "https://github.com/ioannakatsanou/Test",
+  "repository": "https://github.com/ioannakatsanou/Test",
   "main": "index.js",
   "scripts": {
     "start": "hugo --gc"
@@ -10,32 +10,28 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-        "@fullhuman/postcss-purgecss": "^4.0.3",
-        "@tailwindcss/typography": "^0.4.1",
-        "autoprefixer": "^10.3.7",
-        "postcss": "^8.3.9",
-        "postcss-cli": "^9.0.1",
-        "postcss-import": "^14.0.2",
-        "tailwindcss": "^2.2.16"
-    },
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.16"
+  },
   "dependencies": {
-     "@fullhuman/postcss-purgecss": "^4.0.3",
-        "@tailwindcss/typography": "^0.4.1",
-        "autoprefixer": "^10.3.7",
-        "postcss": "^8.3.9",
-        "postcss-cli": "^9.0.1",
-        "postcss-import": "^14.0.2",
-        "tailwindcss": "^2.2.16"
-  }, 
- 
-    "browserslist": [
-        "last 1 version",
-        "> 1%",
-        "maintained node versions",
-        "not dead"
-    ]
-  
-  
-  
-  
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "postcss-cli": "^9.0.1",
+    "postcss-import": "^14.0.2",
+    "postcss-purgecss": "^2.0.3",
+    "tailwindcss": "^2.2.16"
+  },
+  "browserslist": [
+    "last 1 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
 }
