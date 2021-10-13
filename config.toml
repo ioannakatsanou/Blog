@@ -1,4 +1,5 @@
-baseURL = "https://example.com"
+#baseURL = "https://example.com"
+baseURL = "https://ioannakatsanou.github.io/Test/"
 title = "Blonde"
 author = "wamo"
 languageCode = "en"
