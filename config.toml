@@ -86,7 +86,7 @@ darkmode = "light"
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "/Blog/contact/"
     weight = 3
 
 [taxonomies]
