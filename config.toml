@@ -1,6 +1,6 @@
 #baseURL = "https://example.com"
 baseURL = "https://ioannakatsanou.github.io/Blog/"
-title = "Blonde"
+title = "Confessions of a Programmer"
 author = "wamo"
 languageCode = "en"
 DefaultContentLanguage = "en"
