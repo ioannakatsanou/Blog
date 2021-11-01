@@ -6,14 +6,20 @@ aliases = ["about-us", "about-confessions-of-a-programmer", "contact"]
 author = "Programmer"
 +++
 
-Having 6 years of experience working as a programmer, I have passed through many programming work-related phases. I have witnessed unspoken and unbelievable things at the work environment, things that maybe some of you -if you are also in the programming world- know what I am talking about, and some others have only imagined.
+For the past 6 years I have been working as a programmer.
 
-This blog is to share my stories with the whole world. Stories may be true, or may have a dose of imagination – I leave that on the reader’s choice and point of view.
+During that time I have gone through many programming work-related stages and have witnessed some incredible episodes at the work environment.
 
-Mentioned people, if any, are a work of fiction. Names, characters, places and incidents either are products of my imagination or are used fictitiously. Any resemblance to actual events or locales or persons, living or dead, is entirely coincidental.
+You might know what I am talking about if you are also a programmer otherwise you might need to stretch your imagination. 
 
-For questions/ideas/discussion please feel free to contact my through the contact form in the contact page.
+Ι decided to write this blog in order to share my adventures with you.
 
-Don't forget to have fun!
+These may be accurate, or may have a dose of imagination – It is up to the reader to decide.
+
+The names, characters, places and incidents  mentioned are  fictional. Any resemblance to actual events or locales or persons, is entirely coincidental.
+
+For questions/ideas/discussion please feel free to contact my through the contact form in the contact page. 
+
+Have fun!
 
 Learn more and contribute on [GitHub](https://github.com/ioannakatsanou/Blog).
